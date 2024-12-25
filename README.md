@@ -1,5 +1,5 @@
-# Manual converted chekcer file (domejudge to quera)
-domejudge chekcer is based on [Mike Mirzayanov testlib](https://github.com/MikeMirzayanov/testlib) and I conveted that manually.
+# Manual converted chekcer file (domjudge to quera)
+domjudge chekcer is based on [Mike Mirzayanov testlib](https://github.com/MikeMirzayanov/testlib) and I conveted that manually.
 
 ### list
 | folder name | uses |
